@@ -1,0 +1,22 @@
+
+.table-container {
+    margin-top: 10px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    /* background-color: aqua; */
+  }
+  
+  .table th, .table td {
+    padding: 8px;
+    border: 1px solid #669e32;
+    background-color: #dde2f0;
+  }
+  
+  .table th {
+    background-color: #c07171;
+    font-weight: bold;
+  }
+  
